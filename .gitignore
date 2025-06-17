@@ -1,0 +1,79 @@
+## .NET Core / ASP.NET Core
+bin/
+obj/
+out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated build results
+*.dll
+*.exe
+*.log
+*.cache
+*.pdb
+*.db
+*.mdb
+*.app
+
+# ASP.NET-specific
+wwwroot/lib/
+appsettings.Development.json
+
+# User-specific files
+.vscode/
+.vs/
+.idea/
+*.code-workspace
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+logs/
+log/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# MacOS
+.DS_Store
+
+# JetBrains Rider settings
+.idea/
+*.sln.iml
+
+# Environment files
+.env
+.env.*
+
+# dotCover
+*.dotCover
+
+# Build artifacts
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio Code Workspace settings
+.vscode/*
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Others
+_ReSharper*/
+*.ncrunch*
+*.localhistory/
